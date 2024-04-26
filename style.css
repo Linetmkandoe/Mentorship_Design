@@ -1,0 +1,21 @@
+.brief{
+    font-size: 40px;
+    margin-top: 509px;
+    margin-right: 100px;
+}
+#mentor{
+    width: 400px;
+}
+#program{
+    font-size: 60px;
+}
+button{
+  background-color: palevioletred;
+  padding: 25px; 
+}
+.homepage{
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
